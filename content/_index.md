@@ -4,8 +4,6 @@ title: ''
 date: 2022-10-24
 type: landing
 
-social: true
-
 design:
   # Default section spacing
   spacing: '6rem'
