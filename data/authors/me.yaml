@@ -12,7 +12,9 @@ postnominals:
   - PhD
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: postdoctoral researcher
+  institution: EPFL & Princeton University
+  url: https://phy.princeton.edu/people/dmitry-abanin
 bio: |
   Hello! This is Yuxuan (Vincent) Zhang (张宇轩). I am currently a postdoctoral researcher in [Prof. Dmitry Abanin](https://phy.princeton.edu/people/dmitry-abanin)’s group that superposes between Princeton and EPFL. My research lies at the interface of quantum information, quantum many-body physics, and artificial intelligence, with a particular focus on quantum algorithms, quantum advantage, and AI-assisted physical science discovery. I'm always open to new collaborations and looking for motivated students, if interested, please feel free to reach out to me!
 
@@ -24,7 +26,7 @@ bio: |
 
   > You observed me, and thus we entangled – though I could never be a copy of you.
 
-avatar: assets/images/prof_pic2.jpg
+avatar: assets/media/authors/me.png
 address:
   street: PH H1 477
   city: Lausanne
@@ -46,8 +48,6 @@ links:
     url: https://www.linkedin.com/in/yuxuan-zhang-1995
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=8jJ9nAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
