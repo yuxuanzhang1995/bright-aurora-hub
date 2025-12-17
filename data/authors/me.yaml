@@ -25,18 +25,24 @@ bio: |
 
   > You observed me, and thus we entangled – though I could never be a copy of you.
 
+avatar: assets/images/prof_pic2.jpg
+address:
+  street: PH H1 477
+  city: Lausanne
+  region: ''
+  postcode: '1015'
+  country: Switzerland
+  country_code: CH
 affiliations:
   - name: EPFL
     url: https://ai.meta.com/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:yuxuan.zhang@epfl.ch
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/yuxuanzhang1995
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
