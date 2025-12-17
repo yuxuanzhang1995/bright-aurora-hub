@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Dr. Yuxuan Zhang
+  given: Yuxuan
+  family: Zhang
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
@@ -21,7 +21,7 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
+  - name: EPFL
     url: https://ai.meta.com/
 
 links:
@@ -46,8 +46,8 @@ interests:
   - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
+  - degree: PhD Physics
+    institution: University of Texas at Austin
     start: 2015-09-01
     end: 2019-06-30
     summary: |
